@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActivitiesTest</string>
+    <string name="buttonOpen">open</string>
+    <string name="textViewName">name</string>
+</resources>
