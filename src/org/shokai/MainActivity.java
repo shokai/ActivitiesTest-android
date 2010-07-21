@@ -24,7 +24,7 @@ public class MainActivity extends Activity implements OnClickListener{
     public void onClick(View arg0) {
         switch(arg0.getId()){
         case R.id.ButtonOpen:
-            logger.v("click");
+            logger.v("click : ButtonOpen");
             Intent it = new Intent(this, ConfigActivity.class);
             this.startActivity(it);
             break;

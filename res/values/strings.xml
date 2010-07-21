@@ -2,5 +2,7 @@
 <resources>
     <string name="app_name">ActivitiesTest</string>
     <string name="buttonOpen">open</string>
-    <string name="textViewName">name</string>
+    <string name="buttonSave">save</string>
+    <string name="textViewName">your name</string>
+    <string name="editTextName">(empty)</string>
 </resources>
